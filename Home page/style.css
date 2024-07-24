@@ -1,0 +1,335 @@
+* {
+
+    margin: 6px;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    border-bottom: 1px solid rgb(112, 108, 108);
+    padding-bottom: 20px;
+}
+
+
+#motors {
+    position: absolute;
+    top: 20px;
+    font-weight: bolder;
+    font-size: medium;
+    padding-right: 25px;
+    
+
+}
+
+#property {
+    position: absolute;
+    top: 20px;
+    font-weight: bolder;
+    font-size: medium;
+    padding-right: 25px;
+}
+
+#login {
+    font-weight: bolder;
+    font-size: medium;
+    text-decoration: underline solid;
+}
+
+#olx-logo {
+    height: 40px;
+    width: 70px;
+    padding-right: 25px;
+    padding-left: 50px
+}
+
+#car-logo {
+    height: 40px;
+    width: 50px;
+
+}
+
+#property-logo {
+    height: 40px;
+    width: 50px;
+    margin-left: 80px;
+}
+
+.select {
+    height: 50px;
+    width: 250px;
+
+    margin-left: 60px
+}
+
+.find {
+    height: 50px;
+    width: 500px;
+    margin-right: 0%;
+    padding-right: 0%;
+
+}
+
+#search-logo {
+    position: relative;
+    top: 26px;
+    right: 12px;
+    
+    padding-right: 0%;
+    height: 50px;
+    width: 50px;
+
+}
+
+#sell-logo {
+    position: relative;
+    top: 22px;
+    height: 40px;
+    width: 80px;
+
+}
+
+main {
+    margin-top: 20px;
+}
+
+#all-categries {
+    font-weight: bolder;
+    font-size 20px;
+    margin-left: 60px;
+}
+
+
+.categries {
+    font-size 15px;
+    margin-left: 15px;
+}
+
+#image-bar {
+    height: 192px;
+    width: 1230px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+#mobile-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+    margin-left: 120px;
+}
+
+#vahicle-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#house-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#key-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#camera-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#bike-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#jeep-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#brush-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+    margin-left: 120px;
+}
+
+#bag-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#hen-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#chair-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#cloth-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#books-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#toys-logo {
+    height: 90;
+    width: 90px;
+    margin-right: 40px;
+}
+
+#all-categries2 {
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 90px;
+}
+
+
+
+
+
+.figure {
+    display: inline;
+
+}
+
+.figcaption {
+    display: inline;
+}
+
+#imgiphone11 {
+    width: 270px;
+    height: 140px;
+
+}
+
+.heading2 {
+    margin-bottom: 15px;
+}
+
+.figdiv {
+    display: inline-block;
+    border: 1px solid rgb(98, 93, 93);
+    padding: 0%;
+    margin-left: 10px;
+}
+
+#imgiphone11 {
+    margin: 0%;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+.name {
+    font-size: 18px;
+    color: rgb(21, 18, 18);
+
+}
+
+.place {
+    font-size: 14px;
+    color: rgb(107, 107, 107);
+}
+
+.period {
+    font-size: 12px;
+    color: rgb(107, 107, 107);
+}
+
+#image-bar2 {
+    width: 50%;
+    height: 200px;
+}
+
+.app-logo-class {
+    display: inline-block;
+   position: relative;
+   bottom: 50px;
+   
+
+}
+
+.app-logo-class> h3 {
+    text-transform: uppercase;
+
+  
+}
+
+.app-logos {
+    width: 120px;
+    height: 36px;
+
+}
+
+
+
+
+
+.footer{
+   
+    padding-left: 60px;
+    padding-top: 10px;
+    border-top: 1px solid rgb(182, 182, 182);
+    padding-bottom: 50px;
+    background-color:rgba(255, 250, 250, 0.37)
+    
+}
+
+
+.footer-categories{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.footer h5{
+    text-transform: uppercase;
+    padding-bottom: 12PX;
+   font-size: 14px;
+}
+
+.footer ul{
+   line-height: 14PX;
+   font-size: 12PX;
+   color: gray;
+
+}
+
+.footer-icons {
+   border-radius: 9px;
+   height: 20px;
+   width: 20px;
+   margin-left: 4px;
+
+   margin-top:2px;
+
+}
+
+.footer-app-icons {
+    height: 22px;
+    width: 80px;
+    margin-top: 16px;
+}
+
